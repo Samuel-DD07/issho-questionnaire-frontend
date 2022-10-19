@@ -1,6 +1,6 @@
 {
   "name": "issho-questionnaire-frontend",
-  "proxy": "http://issho-questionnaire-api.herokuapp.com/",
+  "proxy": "https://issho-questionnaire-api.herokuapp.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
